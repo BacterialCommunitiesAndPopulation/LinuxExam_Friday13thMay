@@ -1,7 +1,7 @@
 # LinuxExam_Friday13thMay
 
 A part checking your Linux skills, during the exam you will download the dataset you need for the first part of the course *Working with bacterial communities*. In addition, we will have the opportunity to check if you had installed all the required software and that your csc account is working. In fact, the exam will be done directly on your CSC account where you will perform all the activities of the course. Below you will find some general instructions on how to connect to your csc account through your computer.
-To start the exam download the word document *Unix_test.docx* follow the instructions, feel the boxes, save the document including your name in the filename and send it to mirko.rossi@helsinki.fi and jenni.hultman@helsinki.fi by today 13:00.
+To start the exam download the word document *Unix_test.docx* follow the instructions, feel the boxes, save the document including your name in the filename and send it to mirko.rossi@helsinki.fi and jenni.hultman@helsinki.fi by today at 13:00.
 
 ##How to access you CSC account
 ###For *Mac* or *Linux* users
