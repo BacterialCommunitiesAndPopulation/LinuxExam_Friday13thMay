@@ -1,6 +1,6 @@
 # LinuxExam_Friday13thMay
 
-A part checking your Linux skills, during the exam you will download the dataset you need for the first part of the course *Working with bacterial communities*. IN addition, we will have the opportunity to check if you had installed all the required software and that your csc account is working. In fact, the exam will be performed directly on your CSC account where you will perform all the activities of the course. Below you will find some general instructions on how to connect to your csc account through your computer.
+A part checking your Linux skills, during the exam you will download the dataset you need for the first part of the course *Working with bacterial communities*. In addition, we will have the opportunity to check if you had installed all the required software and that your csc account is working. In fact, the exam will be performed directly on your CSC account where you will perform all the activities of the course. Below you will find some general instructions on how to connect to your csc account through your computer.
 
 ##How to access you CSC account
 ###For *Mac* or *Linux* users
